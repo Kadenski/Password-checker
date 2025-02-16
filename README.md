@@ -15,8 +15,11 @@ A simple Python script to check the strength of a password based on common crite
 
 ##Example
 Enter a password: Password123!
+
 Strong: Password meets all criteria.
+
 Enter a password: pass
+
 Weak: Password should be at least 8 characters long.
 
 ##Disclaimer
