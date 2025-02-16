@@ -11,7 +11,7 @@ A simple Python script to check the strength of a password based on common crite
 1. Install Python from [here](https://www.python.org/downloads/).
 2. Run the script:
    ```bash
-   python password_strength_checker.pyv
+   python password_strength_checker.py
 
 ##Example
 Enter a password: Password123!
